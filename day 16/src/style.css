@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container .section1 {
+    min-height: 100vh;
+    background: rgb(90, 185, 248);
+    display: grid;
+    place-content: center;
+}
+
+.container .section2 {
+    min-height: 100vh;
+    background: rgb(140, 240, 243);
+    display: grid;
+    place-content: center;
+}
